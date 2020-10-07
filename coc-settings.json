@@ -1,0 +1,26 @@
+{
+    "javascript.validate.enable": false,
+    "coc.preferences.formatOnSaveFiletypes": [
+        "css",
+        "markdown",
+        "javascript",
+        "typescript",
+        "javascriptreact",
+        "typescriptreact",
+        "python",
+        "solidity"
+    ],
+    "prettier.semi": true,
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": true,
+    "prettier.bracketSpacing": true,
+    "prettier.arrowParens": "avoid",
+    "prettier.trailingComma": "es5",
+    "prettier.jsxBracketSameLine": false,
+    "python.jediEnabled": false,
+    "explorer.icon.enableVimDevicons": true,
+    "explorer.sources": [
+        { "name": "buffer", "expand": true },
+        { "name": "file", "expand": true }
+    ]
+}
